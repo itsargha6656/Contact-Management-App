@@ -74,8 +74,8 @@ This project is licensed under the MIT License.
 
 ### 👨‍💻 Author
 Argha
-📧 arghatech12@gmail.com
-🌐 https://www.linkedin.com/in/argha-pal-13618b267/
+<br>📧 arghatech12@gmail.com
+<br>🌐 https://www.linkedin.com/in/argha-pal-13618b267/
 
 
 
